@@ -1,3 +1,3 @@
 # zerodha-devops-task
 ## Succesfully Working
-![POC](Screenshort.png)
+![POC](Screenshot.png)
